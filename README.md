@@ -23,7 +23,9 @@ Olá! Sou **Lucas Brito Silva**, estudante de **Sistemas de Informação**, inte
 
 Atualmente, estou construindo minha trajetória na área de desenvolvimento e explorando diferentes tecnologias, linguagens de programação e ferramentas.
 
-Tenho interesse em programação, dados e inteligência artificial, buscando ampliar meus conhecimentos por meio da prática e de novos desafios.
+Tenho interesse em programação, dados, inteligência artificial, automação e desenvolvimento de soluções tecnológicas.
+
+Busco ampliar meus conhecimentos por meio da prática, experimentação e novos desafios.
 
 Acredito que a evolução acontece um passo de cada vez: aprender, experimentar, desenvolver e melhorar.
 
@@ -42,30 +44,31 @@ Acredito que a evolução acontece um passo de cada vez: aprender, experimentar,
 **Banco de dados**
 
 <img src="https://skillicons.dev/icons?i=postgres&theme=dark" />
+<img src="https://img.shields.io/badge/Supabase-0D0D0D?style=for-the-badge&logo=supabase&logoColor=E63946" />
 
 <br><br>
 
 **Ferramentas de desenvolvimento**
 
 <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
+<img src="https://img.shields.io/badge/Postman-0D0D0D?style=for-the-badge&logo=postman&logoColor=E63946" />
 
 <br><br>
 
-**Inteligência Artificial & Tecnologias emergentes**
-
-<img src="https://img.shields.io/badge/IA_Generativa-0D0D0D?style=for-the-badge&logo=openai&logoColor=E63946" />
-<img src="https://img.shields.io/badge/Machine_Learning-0D0D0D?style=for-the-badge&logo=scikitlearn&logoColor=E63946" />
-<img src="https://img.shields.io/badge/Deep_Learning-0D0D0D?style=for-the-badge&logo=tensorflow&logoColor=E63946" />
-<img src="https://img.shields.io/badge/Data_Science-0D0D0D?style=for-the-badge&logo=pandas&logoColor=E63946" />
-<img src="https://img.shields.io/badge/LLMs-0D0D0D?style=for-the-badge&logo=openai&logoColor=E63946" />
-
-<br><br>
-
-**Agentes & Modelos de IA**
+**Agentes & Modelos de Inteligência Artificial**
 
 <img src="https://img.shields.io/badge/Claude-0D0D0D?style=for-the-badge&logo=anthropic&logoColor=E63946" />
 <img src="https://img.shields.io/badge/ChatGPT-0D0D0D?style=for-the-badge&logo=openai&logoColor=E63946" />
 <img src="https://img.shields.io/badge/Gemini-0D0D0D?style=for-the-badge&logo=googlegemini&logoColor=E63946" />
+<img src="https://img.shields.io/badge/Google_AI_Studio-0D0D0D?style=for-the-badge&logo=google&logoColor=E63946" />
+
+<br><br>
+
+**Frameworks & Desenvolvimento com IA**
+
+<img src="https://img.shields.io/badge/LangChain-0D0D0D?style=for-the-badge&logo=langchain&logoColor=E63946" />
+<img src="https://img.shields.io/badge/CrewAI-0D0D0D?style=for-the-badge&logoColor=E63946" />
+<img src="https://img.shields.io/badge/FastAPI-0D0D0D?style=for-the-badge&logo=fastapi&logoColor=E63946" />
 
 <br><br>
 
@@ -77,12 +80,30 @@ Acredito que a evolução acontece um passo de cada vez: aprender, experimentar,
 
 <br><br>
 
-**AI Builders & Desenvolvimento Assistido por IA**
+**AI Builders & Vibe Coding**
 
 <img src="https://img.shields.io/badge/Cursor-0D0D0D?style=for-the-badge&logo=cursor&logoColor=E63946" />
 <img src="https://img.shields.io/badge/v0_by_Vercel-0D0D0D?style=for-the-badge&logo=vercel&logoColor=E63946" />
 <img src="https://img.shields.io/badge/Bolt.new-0D0D0D?style=for-the-badge&logo=stackblitz&logoColor=E63946" />
 <img src="https://img.shields.io/badge/Replit-0D0D0D?style=for-the-badge&logo=replit&logoColor=E63946" />
+
+<br><br>
+
+**Data Analytics & Business Intelligence**
+
+<img src="https://img.shields.io/badge/Pandas-0D0D0D?style=for-the-badge&logo=pandas&logoColor=E63946" />
+<img src="https://img.shields.io/badge/Power_BI-0D0D0D?style=for-the-badge&logo=powerbi&logoColor=E63946" />
+<img src="https://img.shields.io/badge/Streamlit-0D0D0D?style=for-the-badge&logo=streamlit&logoColor=E63946" />
+
+<br><br>
+
+**Conceitos & Tecnologias Emergentes**
+
+<img src="https://img.shields.io/badge/Prompt_Engineering-0D0D0D?style=for-the-badge&logo=openai&logoColor=E63946" />
+<img src="https://img.shields.io/badge/IA_Generativa-0D0D0D?style=for-the-badge&logo=google&logoColor=E63946" />
+<img src="https://img.shields.io/badge/Machine_Learning-0D0D0D?style=for-the-badge&logo=scikitlearn&logoColor=E63946" />
+<img src="https://img.shields.io/badge/LLMs-0D0D0D?style=for-the-badge&logo=openai&logoColor=E63946" />
+<img src="https://img.shields.io/badge/Automação_Inteligente-0D0D0D?style=for-the-badge&logo=n8n&logoColor=E63946" />
 
 </div>
 
