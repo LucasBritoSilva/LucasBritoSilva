@@ -5,7 +5,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1A0808,100:8B0000&height=180&section=header&text=Lucas%20Brito%20Silva&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=Technology%20%7C%20Development%20%7C%20Learning&descSize=13&descAlignY=60&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&width=600&lines=Estudante+de+Sistemas+de+Informação;Explorando+o+universo+da+tecnologia;Python+%7C+SQL+%7C+Inteligência+Artificial;Sempre+aprendendo%2C+sempre+evoluindo." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&width=600&lines=Estudante+de+Sistemas+de+Informacao;Explorando+o+universo+da+tecnologia;Python+%7C+SQL+%7C+Inteligencia+Artificial;Sempre+aprendendo%2C+sempre+evoluindo." alt="Typing SVG" />
 
 <br>
 
@@ -64,17 +64,35 @@ Acredito que a evolução acontece um passo de cada vez: aprender, experimentar,
 
 ---
 
+
 ## `03` — Projetos em destaque
 
 <div align="center">
 
+<table>
+<tr>
+<td width="500px">
+
+<h3>📁 Exercícios em C++</h3>
+
+<p>
+Repositório de exercícios e práticas de programação em C++.
+</p>
+
+<img src="https://img.shields.io/badge/Linguagem-C%2B%2B-E63946?style=flat-square&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Status-Em%20desenvolvimento-0D0D0D?style=flat-square" />
+
+<br><br>
+
 <a href="https://github.com/LucasBritoSilva/exercicios-cpp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasBritoSilva&repo=exercicios-cpp&theme=transparent&hide_border=true&title_color=E63946&text_color=FFFFFF&icon_color=E63946&bg_color=0D0D0D" alt="Projeto de exercícios em C++" />
+  <img src="https://img.shields.io/badge/VER%20REPOSITÓRIO-8B0000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-</div>
+</td>
+</tr>
+</table>
 
-**Outros projetos serão adicionados conforme minha jornada de desenvolvimento evoluir.**
+</div>
 
 ---
 
