@@ -45,7 +45,7 @@ Acredito que a evolução acontece um passo de cada vez: aprender, experimentar,
 
 <br><br>
 
-**Ferramentas**
+**Ferramentas de desenvolvimento**
 
 <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
 
@@ -56,14 +56,37 @@ Acredito que a evolução acontece um passo de cada vez: aprender, experimentar,
 <img src="https://img.shields.io/badge/IA_Generativa-0D0D0D?style=for-the-badge&logo=openai&logoColor=E63946" />
 <img src="https://img.shields.io/badge/Machine_Learning-0D0D0D?style=for-the-badge&logo=scikitlearn&logoColor=E63946" />
 <img src="https://img.shields.io/badge/Deep_Learning-0D0D0D?style=for-the-badge&logo=tensorflow&logoColor=E63946" />
-<img src="https://img.shields.io/badge/Automação-0D0D0D?style=for-the-badge&logo=n8n&logoColor=E63946" />
 <img src="https://img.shields.io/badge/Data_Science-0D0D0D?style=for-the-badge&logo=pandas&logoColor=E63946" />
 <img src="https://img.shields.io/badge/LLMs-0D0D0D?style=for-the-badge&logo=openai&logoColor=E63946" />
+
+<br><br>
+
+**Agentes & Modelos de IA**
+
+<img src="https://img.shields.io/badge/Claude-0D0D0D?style=for-the-badge&logo=anthropic&logoColor=E63946" />
+<img src="https://img.shields.io/badge/ChatGPT-0D0D0D?style=for-the-badge&logo=openai&logoColor=E63946" />
+<img src="https://img.shields.io/badge/Gemini-0D0D0D?style=for-the-badge&logo=googlegemini&logoColor=E63946" />
+
+<br><br>
+
+**Automação & Integração**
+
+<img src="https://img.shields.io/badge/n8n-0D0D0D?style=for-the-badge&logo=n8n&logoColor=E63946" />
+<img src="https://img.shields.io/badge/Make-0D0D0D?style=for-the-badge&logo=make&logoColor=E63946" />
+<img src="https://img.shields.io/badge/Zapier-0D0D0D?style=for-the-badge&logo=zapier&logoColor=E63946" />
+
+<br><br>
+
+**AI Builders & Desenvolvimento Assistido por IA**
+
+<img src="https://img.shields.io/badge/Cursor-0D0D0D?style=for-the-badge&logo=cursor&logoColor=E63946" />
+<img src="https://img.shields.io/badge/v0_by_Vercel-0D0D0D?style=for-the-badge&logo=vercel&logoColor=E63946" />
+<img src="https://img.shields.io/badge/Bolt.new-0D0D0D?style=for-the-badge&logo=stackblitz&logoColor=E63946" />
+<img src="https://img.shields.io/badge/Replit-0D0D0D?style=for-the-badge&logo=replit&logoColor=E63946" />
 
 </div>
 
 ---
-
 
 ## `03` — Projetos em destaque
 
@@ -141,3 +164,4 @@ Repositório de exercícios e práticas de programação em C++.
 <sub>© Lucas Brito Silva · 2026</sub>
 
 </div>
+```
