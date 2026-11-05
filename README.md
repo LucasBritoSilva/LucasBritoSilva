@@ -43,67 +43,64 @@ Acredito que a evolução acontece um passo de cada vez: aprender, experimentar,
 
 **Banco de dados**
 
-<img src="https://skillicons.dev/icons?i=postgres&theme=dark" />
-<img src="https://img.shields.io/badge/Supabase-0D0D0D?style=for-the-badge&logo=supabase&logoColor=E63946" />
+<img src="https://skillicons.dev/icons?i=postgres,supabase&theme=dark" />
 
 <br><br>
 
 **Ferramentas de desenvolvimento**
 
-<img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
-<img src="https://img.shields.io/badge/Postman-0D0D0D?style=for-the-badge&logo=postman&logoColor=E63946" />
+<img src="https://skillicons.dev/icons?i=git,github,postman&theme=dark" />
 
 <br><br>
 
 **Agentes & Modelos de Inteligência Artificial**
 
-<img src="https://img.shields.io/badge/Claude-0D0D0D?style=for-the-badge&logo=anthropic&logoColor=E63946" />
-<img src="https://img.shields.io/badge/ChatGPT-0D0D0D?style=for-the-badge&logo=openai&logoColor=E63946" />
-<img src="https://img.shields.io/badge/Gemini-0D0D0D?style=for-the-badge&logo=googlegemini&logoColor=E63946" />
-<img src="https://img.shields.io/badge/Google_AI_Studio-0D0D0D?style=for-the-badge&logo=google&logoColor=E63946" />
+<img src="https://img.shields.io/badge/Claude-0D0D0D?style=for-the-badge&logo=anthropic&logoColor=D97757" height="48" />
+<img src="https://img.shields.io/badge/ChatGPT-0D0D0D?style=for-the-badge&logo=openai&logoColor=FFFFFF" height="48" />
+<img src="https://img.shields.io/badge/Gemini-0D0D0D?style=for-the-badge&logo=googlegemini&logoColor=8E75FF" height="48" />
 
 <br><br>
 
 **Frameworks & Desenvolvimento com IA**
 
-<img src="https://img.shields.io/badge/LangChain-0D0D0D?style=for-the-badge&logo=langchain&logoColor=E63946" />
-<img src="https://img.shields.io/badge/CrewAI-0D0D0D?style=for-the-badge&logoColor=E63946" />
-<img src="https://img.shields.io/badge/FastAPI-0D0D0D?style=for-the-badge&logo=fastapi&logoColor=E63946" />
+<img src="https://img.shields.io/badge/LangChain-0D0D0D?style=for-the-badge&logo=langchain&logoColor=1C8D73" />
+<img src="https://img.shields.io/badge/🤖_CrewAI-0D0D0D?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FastAPI-0D0D0D?style=for-the-badge&logo=fastapi&logoColor=009688" />
 
 <br><br>
 
 **Automação & Integração**
 
-<img src="https://img.shields.io/badge/n8n-0D0D0D?style=for-the-badge&logo=n8n&logoColor=E63946" />
-<img src="https://img.shields.io/badge/Make-0D0D0D?style=for-the-badge&logo=make&logoColor=E63946" />
-<img src="https://img.shields.io/badge/Zapier-0D0D0D?style=for-the-badge&logo=zapier&logoColor=E63946" />
+<img src="https://img.shields.io/badge/n8n-0D0D0D?style=for-the-badge&logo=n8n&logoColor=EA4B71" />
+<img src="https://img.shields.io/badge/Make-0D0D0D?style=for-the-badge&logo=make&logoColor=6D3BEF" />
+<img src="https://img.shields.io/badge/Zapier-0D0D0D?style=for-the-badge&logo=zapier&logoColor=FF4A00" />
 
 <br><br>
 
 **AI Builders & Vibe Coding**
 
-<img src="https://img.shields.io/badge/Cursor-0D0D0D?style=for-the-badge&logo=cursor&logoColor=E63946" />
-<img src="https://img.shields.io/badge/v0_by_Vercel-0D0D0D?style=for-the-badge&logo=vercel&logoColor=E63946" />
-<img src="https://img.shields.io/badge/Bolt.new-0D0D0D?style=for-the-badge&logo=stackblitz&logoColor=E63946" />
-<img src="https://img.shields.io/badge/Replit-0D0D0D?style=for-the-badge&logo=replit&logoColor=E63946" />
+<img src="https://img.shields.io/badge/Cursor-0D0D0D?style=for-the-badge&logo=cursor&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/v0_by_Vercel-0D0D0D?style=for-the-badge&logo=vercel&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Bolt.new-0D0D0D?style=for-the-badge&logo=stackblitz&logoColor=1389FD" />
+<img src="https://img.shields.io/badge/Replit-0D0D0D?style=for-the-badge&logo=replit&logoColor=F26207" />
 
 <br><br>
 
 **Data Analytics & Business Intelligence**
 
-<img src="https://img.shields.io/badge/Pandas-0D0D0D?style=for-the-badge&logo=pandas&logoColor=E63946" />
-<img src="https://img.shields.io/badge/Power_BI-0D0D0D?style=for-the-badge&logo=powerbi&logoColor=E63946" />
-<img src="https://img.shields.io/badge/Streamlit-0D0D0D?style=for-the-badge&logo=streamlit&logoColor=E63946" />
+<img src="https://img.shields.io/badge/Pandas-0D0D0D?style=for-the-badge&logo=pandas&logoColor=150458" />
+<img src="https://img.shields.io/badge/Power_BI-0D0D0D?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
+<img src="https://img.shields.io/badge/Streamlit-0D0D0D?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" />
 
 <br><br>
 
 **Conceitos & Tecnologias Emergentes**
 
-<img src="https://img.shields.io/badge/Prompt_Engineering-0D0D0D?style=for-the-badge&logo=openai&logoColor=E63946" />
-<img src="https://img.shields.io/badge/IA_Generativa-0D0D0D?style=for-the-badge&logo=google&logoColor=E63946" />
-<img src="https://img.shields.io/badge/Machine_Learning-0D0D0D?style=for-the-badge&logo=scikitlearn&logoColor=E63946" />
-<img src="https://img.shields.io/badge/LLMs-0D0D0D?style=for-the-badge&logo=openai&logoColor=E63946" />
-<img src="https://img.shields.io/badge/Automação_Inteligente-0D0D0D?style=for-the-badge&logo=n8n&logoColor=E63946" />
+<img src="https://img.shields.io/badge/💬_Prompt_Engineering-0D0D0D?style=for-the-badge" />
+<img src="https://img.shields.io/badge/✨_IA_Generativa-0D0D0D?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🧠_Machine_Learning-0D0D0D?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🧩_LLMs-0D0D0D?style=for-the-badge" />
+<img src="https://img.shields.io/badge/⚙️_Automação_Inteligente-0D0D0D?style=for-the-badge" />
 
 </div>
 
