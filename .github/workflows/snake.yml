@@ -19,7 +19,7 @@ jobs:
         with:
           github_user_name: LucasBritoSilva
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?color_snake=%23E63946&color_dots=%230D0D0D,%23330000,%238B0000,%23CC2936,%23FF3333
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%23FF3333&color_dots=%23292929,%23590000,%23990000,%23CC2936,%23FF5555
 
       - name: Push snake animation
         uses: crazy-max/ghaction-github-pages@v3.2.0
