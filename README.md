@@ -56,8 +56,9 @@ Acredito que a evolução acontece um passo de cada vez: aprender, experimentar,
 **Agentes & Modelos de Inteligência Artificial**
 
 <img src="https://img.shields.io/badge/Claude-0D0D0D?style=for-the-badge&logo=anthropic&logoColor=D97757" height="48" />
+<img src="https://img.shields.io/badge/Claude_Code-0D0D0D?style=for-the-badge&logo=anthropic&logoColor=D97757" height="48" />
 <img src="https://img.shields.io/badge/ChatGPT-0D0D0D?style=for-the-badge&logo=openai&logoColor=FFFFFF" height="48" />
-<img src="https://img.shields.io/badge/Gemini-0D0D0D?style=for-the-badge&logo=googlegemini&logoColor=8E75FF" height="48" />
+<img src="https://img.shields.io/badge/Codex-0D0D0D?style=for-the-badge&logo=openai&logoColor=FFFFFF" height="48" />
 
 <br><br>
 
