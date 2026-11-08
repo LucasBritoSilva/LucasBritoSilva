@@ -119,18 +119,43 @@ Acredito que a evolução acontece um passo de cada vez: aprender, experimentar,
 <tr>
 <td width="500px">
 
-<h3>📁 Exercícios em C++</h3>
+<h3>♟️ Chess</h3>
 
 <p>
-Repositório de exercícios e práticas de programação em C++.
+Jogo de xadrez para dois jogadores, com motor de regras desenvolvido em C++17 e interface web interativa. Utiliza WebAssembly para executar a lógica do jogo diretamente no navegador.
 </p>
 
-<img src="https://img.shields.io/badge/Linguagem-C%2B%2B-E63946?style=flat-square&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/Status-Em%20desenvolvimento-0D0D0D?style=flat-square" />
+<img src="https://img.shields.io/badge/C++-0D0D0D?style=flat-square&logo=cplusplus&logoColor=E63946" />
+<img src="https://img.shields.io/badge/WebAssembly-0D0D0D?style=flat-square&logo=webassembly&logoColor=E63946" />
+<img src="https://img.shields.io/badge/HTML5-0D0D0D?style=flat-square&logo=html5&logoColor=E63946" />
+<img src="https://img.shields.io/badge/CSS3-0D0D0D?style=flat-square&logo=css&logoColor=E63946" />
+<img src="https://img.shields.io/badge/JavaScript-0D0D0D?style=flat-square&logo=javascript&logoColor=E63946" />
 
 <br><br>
 
-<a href="https://github.com/LucasBritoSilva/exercicios-cpp">
+<a href="https://github.com/LucasBritoSilva/Chess">
+  <img src="https://img.shields.io/badge/VER%20REPOSITÓRIO-8B0000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="500px">
+
+<h3>📦 StockManager</h3>
+
+<p>
+Sistema de gerenciamento de estoque desenvolvido em C++17, com cadastro de produtos, controle de entradas e saídas, histórico de movimentações, relatórios e persistência de dados em CSV.
+</p>
+
+<img src="https://img.shields.io/badge/C++17-0D0D0D?style=flat-square&logo=cplusplus&logoColor=E63946" />
+<img src="https://img.shields.io/badge/CSV-0D0D0D?style=flat-square&logoColor=E63946" />
+<img src="https://img.shields.io/badge/CLI-0D0D0D?style=flat-square&logo=windowsterminal&logoColor=E63946" />
+
+<br><br>
+
+<a href="https://github.com/LucasBritoSilva/StockManager">
   <img src="https://img.shields.io/badge/VER%20REPOSITÓRIO-8B0000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
