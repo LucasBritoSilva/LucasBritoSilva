@@ -111,6 +111,7 @@ Acredito que a evolução acontece um passo de cada vez: aprender, experimentar,
 
 ---
 
+
 ## `03` — Projetos em destaque
 
 <div align="center">
@@ -134,7 +135,7 @@ Jogo de xadrez para dois jogadores, com motor de regras desenvolvido em C++17 e 
 <br><br>
 
 <a href="https://github.com/LucasBritoSilva/Chess">
-  <img src="https://img.shields.io/badge/VER%20REPOSITÓRIO-8B0000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VER%20REPOSITÓRIO-8B0000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
@@ -156,7 +157,29 @@ Sistema de gerenciamento de estoque desenvolvido em C++17, com cadastro de produ
 <br><br>
 
 <a href="https://github.com/LucasBritoSilva/StockManager">
-  <img src="https://img.shields.io/badge/VER%20REPOSITÓRIO-8B0000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VER%20REPOSITÓRIO-8B0000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="500px">
+
+<h3>🍳 Cozinha do Brito</h3>
+
+<p>
+Site de receitas culinárias criado originalmente em 2022 e desenvolvido para organizar e compartilhar receitas favoritas. Conta com receitas completas, ingredientes, modos de preparo, dicas e sistema de pesquisa para facilitar a descoberta de pratos.
+</p>
+
+<img src="https://img.shields.io/badge/HTML5-0D0D0D?style=flat-square&logo=html5&logoColor=E63946" />
+<img src="https://img.shields.io/badge/CSS3-0D0D0D?style=flat-square&logo=css&logoColor=E63946" />
+<img src="https://img.shields.io/badge/JavaScript-0D0D0D?style=flat-square&logo=javascript&logoColor=E63946" />
+
+<br><br>
+
+<a href="https://github.com/LucasBritoSilva/Receitas">
+<img src="https://img.shields.io/badge/VER%20REPOSITÓRIO-8B0000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
