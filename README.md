@@ -178,7 +178,7 @@ Site de receitas culinárias criado originalmente em 2022 e desenvolvido para or
 
 <br><br>
 
-<a href="https://github.com/LucasBritoSilva/Receitas">
+<a href="https://github.com/LucasBritoSilva/SiteReceitas">
 <img src="https://img.shields.io/badge/VER%20REPOSITÓRIO-8B0000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
