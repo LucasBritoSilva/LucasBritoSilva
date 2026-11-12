@@ -111,12 +111,55 @@ Acredito que a evolução acontece um passo de cada vez: aprender, experimentar,
 
 ---
 
-
 ## `03` — Projetos em destaque
 
 <div align="center">
 
 <table>
+
+<tr>
+<td width="500px">
+
+<h3>📰 Site Notícias</h3>
+
+<p>
+Portal de notícias desenvolvido para apresentar e organizar conteúdos informativos em uma interface web. Projeto voltado à exploração de tecnologias de desenvolvimento web e à aplicação de Inteligência Artificial no processo de criação de software.
+</p>
+
+<img src="https://img.shields.io/badge/Web-0D0D0D?style=flat-square&logo=googlechrome&logoColor=E63946" />
+<img src="https://img.shields.io/badge/IA-0D0D0D?style=flat-square&logo=openai&logoColor=E63946" />
+
+<br><br>
+
+<a href="https://github.com/LucasBritoSilva/SiteNoticias">
+<img src="https://img.shields.io/badge/VER%20REPOSITÓRIO-8B0000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="500px">
+
+<h3>📱 Aplicativo All</h3>
+
+<p>
+Aplicativo multifuncional voltado à organização pessoal e à centralização de funcionalidades em uma única plataforma. O projeto contempla gerenciamento de rotinas e atividades, acompanhamento de tarefas e recursos de produtividade, com foco em praticidade e personalização.
+</p>
+
+<img src="https://img.shields.io/badge/Android-0D0D0D?style=flat-square&logo=android&logoColor=E63946" />
+<img src="https://img.shields.io/badge/Mobile-0D0D0D?style=flat-square&logoColor=E63946" />
+<img src="https://img.shields.io/badge/Produtividade-0D0D0D?style=flat-square&logoColor=E63946" />
+
+<br><br>
+
+<a href="https://github.com/LucasBritoSilva/Aplicativo-All">
+<img src="https://img.shields.io/badge/VER%20REPOSITÓRIO-8B0000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+
 <tr>
 <td width="500px">
 
@@ -166,7 +209,7 @@ Sistema de gerenciamento de estoque desenvolvido em C++17, com cadastro de produ
 <tr>
 <td width="500px">
 
-<h3>🍳 Cozinha do Brito</h3>
+<h3>🍳 Site Receitas — Cozinha do Brito</h3>
 
 <p>
 Site de receitas culinárias criado originalmente em 2022 e desenvolvido para organizar e compartilhar receitas favoritas. Conta com receitas completas, ingredientes, modos de preparo, dicas e sistema de pesquisa para facilitar a descoberta de pratos.
@@ -184,6 +227,7 @@ Site de receitas culinárias criado originalmente em 2022 e desenvolvido para or
 
 </td>
 </tr>
+
 </table>
 
 </div>
