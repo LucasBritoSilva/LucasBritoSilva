@@ -141,7 +141,7 @@ Portal de notícias desenvolvido para apresentar e organizar conteúdos informat
 <tr>
 <td width="500px">
 
-<h3>📱 Aplicativo All</h3>
+<h3>📱 Aplicativo BrutAll</h3>
 
 <p>
 Aplicativo multifuncional voltado à organização pessoal e à centralização de funcionalidades em uma única plataforma. O projeto contempla gerenciamento de rotinas e atividades, acompanhamento de tarefas e recursos de produtividade, com foco em praticidade e personalização.
